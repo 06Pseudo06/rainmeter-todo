@@ -1,0 +1,22 @@
+# User task data & history
+tasks.txt
+todo/tasks.txt
+trash.txt
+todo/trash.txt
+
+# Backup and temporary files
+backup_original/
+*.bak
+*.tmp
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+.gemini/

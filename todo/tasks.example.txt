@@ -1,0 +1,5 @@
+task|x|x|
+Buy groceries|||
+Review lecture notes|x||
+Water the plants||x|
+Read chapter 4|||x
