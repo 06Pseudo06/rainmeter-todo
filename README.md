@@ -8,9 +8,9 @@ A tiny, aesthetic desktop to-do widget for Windows — simple enough to stay out
 
 ## ✦ Preview
 
-![Cute Rainmeter To-Do](preview.png)
+![Cute Rainmeter To-Do](<img width="557" height="763" alt="image" src="https://github.com/user-attachments/assets/1f19b9cc-9d5b-4b41-8965-c5a40233cde5" />
+)
 
-> _Note: Place your screenshot as `preview.png` in the root of the repository to display the widget preview._
 
 ---
 
@@ -34,10 +34,12 @@ A tiny, aesthetic desktop to-do widget for Windows — simple enough to stay out
 ## 🌷 What it looks like
 
 ### Expanded
-![Expanded widget](preview.png)
+![Expanded widget](<img width="557" height="763" alt="image" src="https://github.com/user-attachments/assets/22d6814e-025f-474e-91a7-4fc5ded34c36" />
+)
 
 ### Collapsed
-![Collapsed widget](collapsed.png)
+![Collapsed widget](<img width="145" height="127" alt="Screenshot 2026-09-06 194843" src="https://github.com/user-attachments/assets/cd1cb055-7458-4c8e-a141-5c2902c981e5" />
+)
 
 ---
 
